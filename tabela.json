@@ -1,0 +1,1040 @@
+[
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"South West",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":2419523
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":448024
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":3260838
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":1429
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":746724
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":701715
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":221567
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":1369
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":218293
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1084389
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":60860
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":100832
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":930514
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":101547
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":140556
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":359644
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":1477983
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":409326
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":231693
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":1831516
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":1825414
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":1410134
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"East",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":2564237
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":610957
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":3485978
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":2088
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":954037
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":777518
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":243339
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":1197
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":292531
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1094734
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":63664
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":151858
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":934081
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":154323
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":200494
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":358225
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":1631099
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":469352
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":292895
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":2254272
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":1786833
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":1564138
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"British Transport Police",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":593299
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":260429
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":379396
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":24
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":172934
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":21187
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":105
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":44938
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":30510
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":2865
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":29939
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":396756
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":40293
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":53652
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":100888
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":4350
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":396087
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":118889
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":135923
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":246381
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"North West",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":3657783
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":563935
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":5741754
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":1951
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":1703176
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":1380484
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":240761
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":4985
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":410265
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1692401
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":98871
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":200806
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":1660137
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":251406
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":435938
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":507615
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":2192866
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":671726
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":514797
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":3373399
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":2824403
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":2104932
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"London",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":6750625
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":1037070
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":4087163
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":2308
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":2637522
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":2761463
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":763487
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":6820
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":505608
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1484247
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":110707
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":318538
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":1854037
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":313082
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":1698072
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":638427
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":2152328
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":1300745
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":2020533
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":5496123
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":3588967
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":3163882
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"North East",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":1228437
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":198292
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":2246772
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":509
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":418350
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":399248
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":69933
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":916
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":164825
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":574409
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":32583
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":83649
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":560166
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":75522
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":65679
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":182793
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":991139
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":285504
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":100986
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":942558
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":960774
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":652505
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"East Midlands",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":2293456
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":414298
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":3128990
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":1553
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":945677
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":594160
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":183233
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":1436
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":244835
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1122586
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":57617
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":118704
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":609671
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":128167
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":211152
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":309445
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":1393988
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":312381
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":269222
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":2053988
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":1748213
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":1119937
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"Wales",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":1337814
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":171109
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":2192458
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":692
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":424170
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":589307
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":84363
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":713
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":166153
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":628088
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":28868
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":65660
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":650227
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":61657
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":49375
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":201627
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":877024
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":317602
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":128243
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":1231138
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":1176087
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":753432
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"South East",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":4388768
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":838202
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":5393201
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":3899
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":1213567
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":1151567
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":355053
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":2913
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":444480
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1690728
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":89005
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":198003
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":1506702
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":189328
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":255615
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":597612
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":2561650
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":711949
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":470220
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":3192259
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":2844426
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":2811710
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"Yorkshire and The Humber",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":3160855
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":417465
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":4325381
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":3541
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":1500231
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":732294
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":185916
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":3403
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":347964
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1656620
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":84945
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":134892
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":1016157
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":211535
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":248354
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":400997
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":1812570
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":544713
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":420410
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":2905095
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":2201417
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":1453571
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"West Midlands",
+    "Crimes":[
+      {
+        "Offence":"All other theft offences",
+        "Rolling year total number of offences":2584596
+      },
+      {
+        "Offence":"Bicycle theft",
+        "Rolling year total number of offences":337225
+      },
+      {
+        "Offence":"Criminal damage and arson",
+        "Rolling year total number of offences":3525532
+      },
+      {
+        "Offence":"Death or serious injury caused by illegal driving",
+        "Rolling year total number of offences":2103
+      },
+      {
+        "Offence":"Domestic burglary",
+        "Rolling year total number of offences":1151002
+      },
+      {
+        "Offence":"Drug offences",
+        "Rolling year total number of offences":738745
+      },
+      {
+        "Offence":"Fraud offences",
+        "Rolling year total number of offences":228144
+      },
+      {
+        "Offence":"Homicide",
+        "Rolling year total number of offences":3105
+      },
+      {
+        "Offence":"Miscellaneous crimes against society",
+        "Rolling year total number of offences":303244
+      },
+      {
+        "Offence":"Non-domestic burglary",
+        "Rolling year total number of offences":1271188
+      },
+      {
+        "Offence":"Non-residential burglary",
+        "Rolling year total number of offences":71059
+      },
+      {
+        "Offence":"Possession of weapons offences",
+        "Rolling year total number of offences":153070
+      },
+      {
+        "Offence":"Public order offences",
+        "Rolling year total number of offences":807228
+      },
+      {
+        "Offence":"Residential burglary",
+        "Rolling year total number of offences":184873
+      },
+      {
+        "Offence":"Robbery",
+        "Rolling year total number of offences":442600
+      },
+      {
+        "Offence":"Sexual offences",
+        "Rolling year total number of offences":396704
+      },
+      {
+        "Offence":"Shoplifting",
+        "Rolling year total number of offences":1590106
+      },
+      {
+        "Offence":"Stalking and harassment",
+        "Rolling year total number of offences":559786
+      },
+      {
+        "Offence":"Theft from the person",
+        "Rolling year total number of offences":260067
+      },
+      {
+        "Offence":"Vehicle offences",
+        "Rolling year total number of offences":2676433
+      },
+      {
+        "Offence":"Violence with injury",
+        "Rolling year total number of offences":2443474
+      },
+      {
+        "Offence":"Violence without injury",
+        "Rolling year total number of offences":1309536
+      }
+    ]
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"Fraud: Action Fraud"
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"Fraud: CIFAS"
+  },
+  {
+    "Data de processo":"30-12-2021 11:42",
+    "Regiao":"Fraud: UK Finance"
+  }
+]
